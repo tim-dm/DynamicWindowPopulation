@@ -1,5 +1,5 @@
 # DynamicWindowPopulation
-A c# design solution for mimicking basic MVVM architecture in WinForms
+A c# proof-of-concept for mimicking basic MVVM architecture in WinForms
 
 This design allows you to dynamically create Forms, dynamically swap out their controls and dynamically swap the databindings of said controls.
 
