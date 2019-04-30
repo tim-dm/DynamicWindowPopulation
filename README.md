@@ -21,6 +21,8 @@ The ViewModel property is also responsible for updating the databindings of the 
 
 The BaseViewModel class inherits INotifyPropertyChanged and contains the PropertyChanged methods and some debugging aids.
 
+
+
 - When creating a new windows make sure to inherit from the BaseWindow class.
 - When creating a new view make sure to inherit from the BaseView class.
 - When creating a new viewModel make sure to inherit from the BaseViewModel class.
