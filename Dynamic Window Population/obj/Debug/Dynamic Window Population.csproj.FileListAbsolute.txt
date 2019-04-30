@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic_Window_Population.BaseForm.resources
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic_Window_Population.Form1.resources
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic_Window_Population.Properties.Resources.resources
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic_Window_Population.DynamicView1.resources
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic_Window_Population.DynamicView2.resources
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic Window Population.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic Window Population.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\bin\Debug\Dynamic Window Population.exe.config
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\bin\Debug\Dynamic Window Population.exe
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\bin\Debug\Dynamic Window Population.pdb
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic Window Population.exe
+C:\Users\User\Desktop\Dynamic Window Population\Dynamic Window Population\obj\Debug\Dynamic Window Population.pdb
